@@ -1,1 +1,1 @@
-console.log("git et javascript");
+console.log("git et javascript ...");
